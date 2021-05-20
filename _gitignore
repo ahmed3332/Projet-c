@@ -1,0 +1,10 @@
+/bin/
+/main/
+/obj/
+/bib.c/
+/bib.h/
+/main.o/
+/main.c/
+/cree_bib.cbp/
+/cree_bib.depend/
+/cree_bib.layout/
